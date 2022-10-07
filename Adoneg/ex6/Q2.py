@@ -1,5 +1,3 @@
-#Q1. Calculator
-
 #Q2:
 principal_amount = float(input("Enter principal amount P:\n"))
 interest_rate = float(input("Interest rate as decimal r:\n"))
